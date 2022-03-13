@@ -9,7 +9,7 @@ $(document).ready(function () {
     });
     // Resize Page Refresh
 
-    // Hamburger Click
+    // Hamburger Click 
     $('.hamburgerMenuButton').click(function () {
         $(".hamburgerMenuList").addClass("active")
     });
