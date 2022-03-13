@@ -9,13 +9,13 @@ $(document).ready(function () {
     });
     // Resize Page Refresh
 
-    // Tabs
+    // Hamburger Click
     $('.hamburgerMenuButton').click(function () {
         $(".hamburgerMenuList").addClass("active")
     });
     $('.closeButton').click(function () {
         $(".hamburgerMenuList").removeClass("active")
     });
-    // Tabs
+    // Hamburger Click
 
 });
